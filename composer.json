@@ -1,0 +1,19 @@
+{
+    "name": "seraf/scheduler",
+    "description": "Планировщик событий для календаря",
+    "type": "composer-plugin",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Scheduler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "seraf-seraf",
+            "email": "serafim123sima@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
